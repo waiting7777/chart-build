@@ -1468,28 +1468,28 @@ p {
 }
 body {
   background-color: #f3f3f3;
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
   font-size: 12px;
 }
 h1 {
   font-size: 2em;
   line-height: 1;
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
 }
 h2 {
   font-size: 1.5em;
   line-height: 1.5em;
   margin-top: 0.5em;
   margin-bottom: 0.25em;
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
 }
 h3 {
   font-size: 1.25em;
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
 }
 h4 {
   font-size: 1em;
-  primary-font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  primary-font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
 }
 table {
   width: 100%;
@@ -1510,7 +1510,7 @@ select {
   color: #666;
   border: 1px solid #ccc;
   border-radius: 0;
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
   background-color: #fff;
 }
 textarea,
@@ -1634,7 +1634,7 @@ div.renderer-wrapper {
 }
 svg.renderer-svg {
   fill: #fff;
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1657,7 +1657,7 @@ svg.renderer-svg tspan {
   display: none;
 }
 .d4 .axis .tick {
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
 }
 .d4 .axis .tick[data-anchor="middle"] text {
   text-anchor: middle;
@@ -1699,7 +1699,7 @@ svg.renderer-svg tspan {
   fill: #666;
 }
 .d4 .concealer-label {
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
 }
 .d4 .concealer-label text {
   fill: #666;
@@ -1723,7 +1723,7 @@ svg.renderer-svg tspan {
   stroke-linejoin: round;
 }
 .d4 .margins .label {
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
 }
 .d4 .column-label {
   fill: #666;
@@ -1735,7 +1735,7 @@ svg.renderer-svg tspan {
   shape-rendering: crispEdges;
 }
 .svg-text {
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
 .svg-text tspan.em {
@@ -1766,7 +1766,7 @@ svg.renderer-svg tspan {
 }
 .svg-text.svg-text-title {
   fill: #666;
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
 .svg-source-pipe {
@@ -1776,7 +1776,7 @@ svg.renderer-svg tspan {
 }
 .svg-label-text {
   font-size: 20px;
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
 }
 .svg-label-text.draggable {
   cursor: move;
@@ -1887,7 +1887,7 @@ svg.renderer-svg tspan {
   margin-right: 0.25em;
 }
 .chartbuilder-editor .editor-options {
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
   margin: 30px 0;
   display: block;
   width: 100%;
@@ -1923,7 +1923,7 @@ svg.renderer-svg tspan {
   background-color: #f1f1f1;
   width: 100%;
   text-align: center;
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
 }
 .chartbuilder-editor .data-input .file-drop p {
   font-size: 2em;
@@ -2124,7 +2124,7 @@ svg.renderer-svg tspan {
 }
 .chartbuilder-editor .editor-label {
   font-size: 18px;
-  font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
+  font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
 }
 .chartbuilder-editor .load-localstorage {
   display: none;
